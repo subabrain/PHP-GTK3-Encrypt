@@ -1,2 +1,2 @@
 # PHP-GTK3-Encrypt
-Use encrypted Files for PHP-GTK3 for Windows
+Use encrypted Files for PHP-GTK3 on Windows
