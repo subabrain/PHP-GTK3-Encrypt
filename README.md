@@ -16,11 +16,15 @@ https://windows.php.net/downloads/releases/archives/php-7.4.14-nts-Win32-vc15-x6
 
 4.	Ok – now go in the php.ini with an editor you like and add the following line in the “Dynamic Extensions” Section – it should be in line “938” – add there:
 
+```
 extension=php-gtk3
+```
 
 5.	And put this line also in the “php.ini” around line “762”:
-   
+
+```   
 extension_dir = "./ext"
+```
 
 7.	Now Download the “php-gtk-3.dll” from this repository or take this link: (https://raw.githubusercontent.com/subabrain/PHP-GTK3-Encrypt/main/php_php-gtk3.dll)
 
