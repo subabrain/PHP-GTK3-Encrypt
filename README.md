@@ -36,9 +36,10 @@ Now you can use the "encrypted_file" function in your PHPGTK3 Application:
 
 Just use it this wayW:
 
-  <?php
-  
-  encrypted_file("encrypted_phpgtk3_file");
+#<?php
+
+#encrypted_file("encrypted_phpgtk3_file");
+
 
 here for use my “rpget_phpgtk3” Application – you also find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
 Please visit the Readme from the Repository - to understand how to use.
