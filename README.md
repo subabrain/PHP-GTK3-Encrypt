@@ -30,7 +30,7 @@ extension_dir = "./ext"
 
 8.	Copy this .dll file to the folder “ext” in your extracted “php” folder.
 
-9.	Okay – now Download all DLLS – in the “dlls” Folder here in my repository.
+9.	Okay – now Download all .dll files – in the “dlls” Folder here in my repository.
 
 10.	Now Copy all “.dll” Files to the root folder of the extracted “php” folder.
 
