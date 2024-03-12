@@ -44,5 +44,5 @@ Just use it this way:
 ?>
 ```
 
-here for use my “rpget_phpgtk3” Application – you also find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
+Here for use my “rpget_phpgtk3” Application – you also find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
 Please visit the Readme from the Repository - to understand how to use.
