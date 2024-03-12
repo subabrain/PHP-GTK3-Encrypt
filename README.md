@@ -32,6 +32,15 @@ extension_dir = "./ext"
 
 ___________________________________________________________________________
 
+Now you can use the "encrypted_file" function in your PHPGTK3 Application:
 
-OK – Now you can start encrypting your created php File – here for use my “rpget_phpgtk3” Application – you also find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
+Just use it this way:
+
+<?php
+
+encrypted_file("encrypted_phpgtk3_file");
+
+?>
+
+here for use my “rpget_phpgtk3” Application – you also find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
 Please visit the Readme from the Repository - to understand how to use.
