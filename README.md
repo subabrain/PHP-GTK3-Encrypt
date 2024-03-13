@@ -47,7 +47,7 @@ Just use it this way:
 
 ?>
 ```
-The File encrypted_phpgtk3_file is encrpted with AES and has a own key in the key.dll File.
-Here for use my “rpget_phpgtk3” Application – you find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
+The File "encrypted_phpgtk3_file" is encrypted with AES and has a own key in the key.dll File.
+Herefor use my “rpget_phpgtk3” Application – you find in my https://github.com/subabrain/PHP-GTK3-RPGET Repository.
 
 Please visit the Readme from the Repository - to understand how to use.
