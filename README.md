@@ -31,7 +31,7 @@ extension_dir = "./ext"
 
 7.	Now Download the “php-gtk-3.dll” from this repository or take this link:
 
-(https://raw.githubusercontent.com/subabrain/PHP-GTK3-Encrypt/main/php_php-gtk3.dll)
+https://raw.githubusercontent.com/subabrain/PHP-GTK3-Encrypt/main/php_php-gtk3.dll
 
 10.	Copy this .dll file to the folder “ext” in your extracted “php” folder.
 
