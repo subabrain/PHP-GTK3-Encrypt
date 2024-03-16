@@ -10,12 +10,14 @@ If you want to go the easy way – you can download the Release for PHP 7.4.14 h
 If you want to understand what’s going on – use the following Explanation 😊
 ___________________________________________________________________________
 1.	Download the binaries of PHP (here its 7.4.14 – other versions will follow):
+
 https://windows.php.net/downloads/releases/archives/php-7.4.14-nts-Win32-vc15-x64.zip
-2.	Extract it to a folder with a folder name you wish (here we take “php_folder”).
 
-3.	Now rename the “php.ini-production” to “php.ini” in your extracted php folder.
+3.	Extract it to a folder with a folder name you wish (here we take “php_folder”).
 
-4.	Ok – now go in the php.ini with an editor you like and add the following line in the “Dynamic Extensions” Section – it should be in line “938” – add there:
+4.	Now rename the “php.ini-production” to “php.ini” in your extracted php folder.
+
+5.	Ok – now go in the php.ini with an editor you like and add the following line in the “Dynamic Extensions” Section – it should be in line “938” – add there:
 
 ```
 extension=php-gtk3
