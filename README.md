@@ -1,7 +1,7 @@
 # PHP-GTK3-Encrypt
 Use encrypted Files for PHP-GTK3 on Windows
 
-Tutorial how to Create some Custom encrypted PHP-GTK 3 Applications:
+Tutorial how to create some custom encrypted PHP-GTK 3 Applications:
 
 If you want to go the easy way – you can download the Release for PHP 7.4.14 here
  https://github.com/subabrain/PHP-GTK3-Encrypt/releases/tag/PHP-GTK3-Encrypt-Version-7.4.14
